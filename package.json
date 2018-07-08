@@ -1,0 +1,7 @@
+{
+  "name": "webrtc-basin",
+  "version": "0.0.1",
+  "dependencies": {
+    "peerjs": "^0.3.14"
+  }
+}
